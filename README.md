@@ -64,12 +64,12 @@ Bash                3 mins  ████░░░░░░░░░░░░░�
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
-<!-- douban starts -->
+<!-- zhihu starts -->
 
-  <!-- douban ends -->
+<!-- zhihu ends -->
 
 </td>
   </tr>
   </table>
   
-
+![pppppkun GitHub statistic](https://github-readme-stats.vercel.app/api?username=pppppkun&show_icons=true)
