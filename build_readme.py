@@ -12,7 +12,6 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 TOKEN = os.environ.get("GH_TOKEN", "")
-
  
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -143,23 +142,23 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     # Write out full project-releases.md file
-    project_releases_md = "\n".join(
-        [
-            (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
-                "<br>{description}"
-            ).format(**release)
-            for release in releases
-        ]
-    )
-    project_releases_content = project_releases.open().read()
-    project_releases_content = replace_chunk(
-        project_releases_content, "recent_releases", project_releases_md
-    )
-    project_releases_content = replace_chunk(
-        project_releases_content, "release_count", str(len(releases)), inline=True
-    )
-    project_releases.open("w").write(project_releases_content)
+    # project_releases_md = "\n".join(
+    #     [
+    #         (
+    #             "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
+    #             "<br>{description}"
+    #         ).format(**release)
+    #         for release in releases
+    #     ]
+    # )
+    # project_releases_content = project_releases.open().read()
+    # project_releases_content = replace_chunk(
+    #     project_releases_content, "recent_releases", project_releases_md
+    # )
+    # project_releases_content = replace_chunk(
+    #     project_releases_content, "release_count", str(len(releases)), inline=True
+    # )
+    # project_releases.open("w").write(project_releases_content)
 
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
 
