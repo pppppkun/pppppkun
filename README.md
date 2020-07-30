@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 当前的技术栈 👇
 
-![Java](https://img.shields.io/badge/Java-1.8-blue?style=flat-square&logo=appveyor) ![SpringBoot](https://img.shields.io/badge/SpringBoot-\-red?style=flat-square&logo=appveyor) ![SpringCloud](https://img.shields.io/badge/SpringCloud-\-green?style=flat-square&logo=appveyor) ![MySQL](https://img.shields.io/badge/MySQL-\-yellow?style=flat-square&logo=appveyor) ![Mybatis](https://img.shields.io/badge/Mybatis-\-lightgrey?style=flat-square&logo=appveyor) ![Redis](https://img.shields.io/badge/Redis-\-brightgreen?style=flat-square&logo=appveyor) ![docker+k8s](https://img.shields.io/badge/docker+k8s-\-blueviolet?style=flat-square&logo=appveyor)
+![Java](https://img.shields.io/badge/Java-\-blue?style=flat-square&logo=appveyor) ![SpringBoot](https://img.shields.io/badge/SpringBoot-\-red?style=flat-square&logo=appveyor) ![SpringCloud](https://img.shields.io/badge/SpringCloud-\-green?style=flat-square&logo=appveyor) ![MySQL](https://img.shields.io/badge/MySQL-\-yellow?style=flat-square&logo=appveyor) ![Mybatis](https://img.shields.io/badge/Mybatis-\-lightgrey?style=flat-square&logo=appveyor) ![Redis](https://img.shields.io/badge/Redis-\-brightgreen?style=flat-square&logo=appveyor) ![docker+k8s](https://img.shields.io/badge/docker+k8s-\-blueviolet?style=flat-square&logo=appveyor)
 
 
 **以下内容通过 <a href="https://github.com/pppppkun/pppppkun/actions" target="_blank">pppppkun/actions</a> 每日自动更新**；
