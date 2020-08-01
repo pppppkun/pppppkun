@@ -104,7 +104,7 @@ def fetch_code_time():
     )
 
 def fetch_douban():
-    entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
+    entries = feedparser.parse("https://www.douban.com/feed/people/173185287/interests")["entries"]
     return [
         {
             "title": item["title"],
@@ -113,6 +113,12 @@ def fetch_douban():
         }
         for item in entries
     ]
+
+# https://www.douban.com/feed/people/P-Kun/interests
+
+def fetch_zhihu():
+    entries = feedparser.parse("https://www.douban.com/people/173185287/interests")["entries"]
+    return entries
 
 
 def fetch_blog_entries():
@@ -164,13 +170,13 @@ if __name__ == "__main__":
 
     rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
-    # doubans = fetch_douban()[:5]
+    doubans = fetch_douban()[:5]
 
-    # doubans_md = "\n".join(
-    #     ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
-    # )
+    doubans_md = "\n".join(
+        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
+    )
 
-    # rewritten = replace_chunk(rewritten, "douban", doubans_md)
+    rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     # entries = fetch_blog_entries()[:5]
     # entries_md = "\n".join(
