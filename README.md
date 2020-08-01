@@ -67,11 +67,11 @@ Bash                3 mins  ████░░░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
+#### 🤾‍♂️ <a href="https://www.douban.com/people/173185287/" target="_blank">Funny Soul</a>
 
-<!-- zhihu starts -->
+<!-- douban starts -->
 
-<!-- zhihu ends -->
+<!-- douban ends -->
 
 </td>
   </tr>
