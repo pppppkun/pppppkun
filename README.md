@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
 <!-- recent_releases starts -->
 
+[cloudNativePractice](https://github.com/pppppkun/cloudNativePractice) last_commit:feat: add prometheus dependency
+[SC2@Hotel](https://github.com/SC2Hotel/back_end) last_commit:feat: release 4.0
+[pythonProgrammingHelper](https://github.com/pppppkun/pythonProgrammingHelper) last_commit:doc: update paper
+[OSlab](https://github.com/pppppkun/OSlab) last_commit:feat: allocBlock writeBlock allocInode
+[COA-PA](https://github.com/pppppkun/COA-PA) last_commit:add DISK file because it is too large so i make .7z
+
 <!-- recent_releases ends -->
 
 </td>
