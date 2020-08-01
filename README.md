@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <!-- recent_releases starts -->
 
-[cloudNativePractice](https://github.com/pppppkun/cloudNativePractice) last_commit:feat: add prometheus dependency
-[SC2@Hotel](https://github.com/SC2Hotel/back_end) last_commit:feat: release 4.0
-[pythonProgrammingHelper](https://github.com/pppppkun/pythonProgrammingHelper) last_commit:doc: update paper
-[OSlab](https://github.com/pppppkun/OSlab) last_commit:feat: allocBlock writeBlock allocInode
-[COA-PA](https://github.com/pppppkun/COA-PA) last_commit:add DISK file because it is too large so i make .7z
+* <a href='https://github.com/pppppkun/cloudNativePractice' target='_blank'>cloudNativePractice</a> - 2020-07-31
+* <a href='https://github.com/SC2Hotel/back_end' target='_blank'>SC2@Hotel</a> - 2020-07-06
+* <a href='https://github.com/pppppkun/pythonProgrammingHelper' target='_blank'>pythonProgrammingHelper</a> - 2020-07-30
+* <a href='https://github.com/pppppkun/OSlab' target='_blank'>OSlab</a> - 2020-06-16
+* <a href='ttps://github.com/pppppkun/COA-PA' target='_blank'>COA-PA</a> - 2020-03-24
 
 <!-- recent_releases ends -->
 
