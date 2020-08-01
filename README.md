@@ -76,7 +76,11 @@ Bash                3 mins  ████░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/173185287/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/34815132/' target='_blank'>读过圆圈正义</a> - 2020-08-01
+* <a href='https://book.douban.com/subject/6082808/' target='_blank'>读过百年孤独</a> - 2020-08-01
+* <a href='https://book.douban.com/subject/10594787/' target='_blank'>想读霍乱时期的爱情</a> - 2020-08-01
+* <a href='https://book.douban.com/subject/2052049/' target='_blank'>读过海伯利安</a> - 2020-08-01
+* <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2020-08-01
 <!-- douban ends -->
 
 </td>
