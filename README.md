@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 
 
-#### 🏋️‍♀️ <a href="https://github.com/pppppkun/pppppkun/blob/main/releases.md" target="_blank">Product Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/pppppkun/pppppkun/blob/main/releases.md" target="_blank">Recent Repo</a>
 
 <!-- recent_releases starts -->
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 * <a href='https://github.com/SC2Hotel/back_end' target='_blank'>SC2@Hotel</a> - 2020-07-06
 * <a href='https://github.com/pppppkun/pythonProgrammingHelper' target='_blank'>pythonProgrammingHelper</a> - 2020-07-30
 * <a href='https://github.com/pppppkun/OSlab' target='_blank'>OSlab</a> - 2020-06-16
-* <a href='ttps://github.com/pppppkun/COA-PA' target='_blank'>COA-PA</a> - 2020-03-24
+* <a href='Https://github.com/pppppkun/COA-PA' target='_blank'>COA-PA</a> - 2020-03-24
 
 <!-- recent_releases ends -->
 
