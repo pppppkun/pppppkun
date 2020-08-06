@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-Other        3 hrs 12 mins  ██████████▓░░░░░░░░░░░░░  30.3%
-Python        2 hrs 7 mins  ████████▒░░░░░░░░░░░░░░░  20.1%
-YAML          1 hr 47 mins  ███████▓░░░░░░░░░░░░░░░░  17.0%
-Markdown      1 hr 35 mins  ███████░░░░░░░░░░░░░░░░░  15.1%
-Java           1 hr 6 mins  ██████░░░░░░░░░░░░░░░░░░  10.4%
-Docker             19 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.1%
+Other        3 hrs 28 mins  ██████████▓░░░░░░░░░░░░░  29.7%
+YAML         2 hrs 13 mins  ████████░░░░░░░░░░░░░░░░  19.1%
+Python        2 hrs 7 mins  ███████▓░░░░░░░░░░░░░░░░  18.2%
+Markdown      1 hr 42 mins  ███████░░░░░░░░░░░░░░░░░  14.7%
+Java          1 hr 13 mins  ██████░░░░░░░░░░░░░░░░░░  10.5%
+XML                20 mins  ████░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time ends -->
