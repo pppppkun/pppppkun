@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-YAML          1 hr 39 mins  ██████████░░░░░░░░░░░░░░  27.4%
-XML           1 hr 24 mins  █████████░░░░░░░░░░░░░░░  23.1%
-Java          1 hr 22 mins  █████████░░░░░░░░░░░░░░░  22.6%
-Other          1 hr 5 mins  ███████▓░░░░░░░░░░░░░░░░  17.9%
-Markdown           17 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.8%
-Git Config          5 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.6%
+XML           1 hr 39 mins  ██████████▒░░░░░░░░░░░░░  28.3%
+YAML          1 hr 27 mins  █████████▒░░░░░░░░░░░░░░  24.7%
+Java          1 hr 17 mins  ████████▓░░░░░░░░░░░░░░░  22.1%
+Other              56 mins  ███████▒░░░░░░░░░░░░░░░░  16.0%
+Markdown           15 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
+Git Config          5 mins  ████░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
