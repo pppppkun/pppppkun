@@ -60,11 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-SQL          2 hrs 56 mins  ████████████▓░░░░░░░░░░░  38.5%
-Java         2 hrs 53 mins  ████████████▓░░░░░░░░░░░  37.8%
-Go            1 hr 48 mins  █████████░░░░░░░░░░░░░░░  23.6%
-Other               0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
-Git Config          0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
+SQL          2 hrs 56 mins  ██████████▒░░░░░░░░░░░░░  28.3%
+Java         2 hrs 53 mins  ██████████░░░░░░░░░░░░░░  27.7%
+Go           2 hrs 20 mins  ████████▓░░░░░░░░░░░░░░░  22.4%
+Python        1 hr 52 mins  ███████▓░░░░░░░░░░░░░░░░  18.0%
+Bash               19 mins  ████░░░░░░░░░░░░░░░░░░░░   3.0%
+HTML                 1 min  ███▓░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
