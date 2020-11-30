@@ -88,3 +88,4 @@ XML                16 mins  ███▓░░░░░░░░░░░░░�
   </table>
   
 ![pppppkun GitHub statistic](https://github-readme-stats.vercel.app/api?username=pppppkun&show_icons=true)
+![pppppkun GitHub Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=pppppkun&layout=compact)
