@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 pkun，NJUSE就读，最近喜欢研究 <a href="https://pdos.csail.mit.edu/6.824/" target="_blank">分布式系统</a> 
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 pkun，NJUSE就读
 
 当前的技术栈 👇
 
