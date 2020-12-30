@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-Java         3 hrs 56 mins  ██████████▓░░░░░░░░░░░░░  29.7%
-JavaScript   3 hrs 37 mins  ██████████░░░░░░░░░░░░░░  27.2%
-C            2 hrs 19 mins  ███████▓░░░░░░░░░░░░░░░░  17.4%
-XML            1 hr 5 mins  █████▒░░░░░░░░░░░░░░░░░░   8.2%
-TeX                57 mins  █████░░░░░░░░░░░░░░░░░░░   7.2%
-Jade               42 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.3%
+Java         6 hrs 28 mins  █████████████▓░░░░░░░░░░  43.2%
+JavaScript   3 hrs 40 mins  █████████▒░░░░░░░░░░░░░░  24.5%
+C             1 hr 31 mins  ██████░░░░░░░░░░░░░░░░░░  10.2%
+XML            1 hr 5 mins  █████▒░░░░░░░░░░░░░░░░░░   7.3%
+Jade               42 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.8%
+Other              33 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.8%
 ```
 
 <!-- code_time ends -->
