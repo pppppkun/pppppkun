@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 pkun，NJUSE就读
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 pkun，NJUSE就读，目前正在研究 **Android Automated Testing and Static Analysis**
 
 当前的技术栈 👇
 
