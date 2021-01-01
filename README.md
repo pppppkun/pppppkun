@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 * <a href='https://github.com/SweatyPandas-Lancelot/project2020-TurningMachine' target='_blank'>TuringMachine</a> - 2021-01-01
 * <a href='https://github.com/pppppkun/COA-PA' target='_blank'>COA-PA</a> - 2020-12-31
-* <a href='https://github.com/pppppkun/NJUSEOSlab' target='_blank'>OSlab</a> - 2020-12-28
+* <a href='https://github.com/pppppkun/NJUSEOSlab' target='_blank'>NJUSE_OSLab</a> - 2020-12-28
 * <a href='https://github.com/pppppkun/TestCaseSelector' target='_blank'>TestCaseSelector</a> - 2020-11-21
 * <a href='https://github.com/SC2Hotel/back_end' target='_blank'>SC2@Hotel</a> - 2020-07-06
 
