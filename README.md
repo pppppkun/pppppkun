@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <!-- recent_releases starts -->
 
-* <a href='https://github.com/SweatyPandas-Lancelot/project2020-TurningMachine' target='_blank'>TuringMachine</a> - 2021-01-01
-* <a href='https://github.com/pppppkun/COA-PA' target='_blank'>COA-PA</a> - 2020-12-31
-* <a href='https://github.com/pppppkun/NJUSEOSlab' target='_blank'>NJUSE_OSLab</a> - 2020-12-28
-* <a href='https://github.com/pppppkun/TestCaseSelector' target='_blank'>TestCaseSelector</a> - 2020-11-21
-* <a href='https://github.com/SC2Hotel/back_end' target='_blank'>SC2@Hotel</a> - 2020-07-06
+* <a href='https://github.com/SweatyPandas-Lancelot/project2020-TurningMachine' target='_blank'>TuringMachine</a> - 2021-01-01. SEC-I大作业
+* <a href='https://github.com/pppppkun/COA-PA' target='_blank'>COA-PA</a> - 2020-12-31. COA编程练习
+* <a href='https://github.com/pppppkun/NJUSEOSlab' target='_blank'>NJUSE_OSLab</a> - 2020-12-28. 软院OSLab
+* <a href='https://github.com/pppppkun/TestCaseSelector' target='_blank'>TestCaseSelector</a> - 2020-11-21. 根据版本变更信息选取测试用例
+* <a href='https://github.com/SC2Hotel/back_end' target='_blank'>SC2@Hotel</a> - 2020-07-06. SEC-II大作业
 
 <!-- recent_releases ends -->
 
