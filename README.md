@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-Python        5 hrs 4 mins  ████████████████▒░░░░░░░  53.1%
-Java          1 hr 51 mins  ████████░░░░░░░░░░░░░░░░  19.5%
-Groovy         1 hr 7 mins  ██████▒░░░░░░░░░░░░░░░░░  11.7%
-Markdown           58 mins  ██████░░░░░░░░░░░░░░░░░░  10.1%
-HTML               21 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.8%
-XML                 5 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
+Java         6 hrs 42 mins  ███████████████▒░░░░░░░░  49.2%
+Python       4 hrs 17 mins  ███████████░░░░░░░░░░░░░  31.6%
+Groovy         1 hr 7 mins  █████▒░░░░░░░░░░░░░░░░░░   8.2%
+Markdown           49 mins  █████░░░░░░░░░░░░░░░░░░░   6.0%
+HTML               16 mins  ████░░░░░░░░░░░░░░░░░░░░   2.0%
+Other              12 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time ends -->
