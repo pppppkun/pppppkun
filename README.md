@@ -76,11 +76,11 @@ Groovy              8 mins  ████░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/173185287/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/34857213/' target='_blank'>最近在读亲密陷阱</a> - 2021-05-06
+* <a href='https://book.douban.com/subject/1048173/' target='_blank'>最近在读忏悔录</a> - 2021-05-06
 * <a href='http://movie.douban.com/subject/27619748/' target='_blank'>看过唐人街探案3</a> - 2021-02-17
 * <a href='http://movie.douban.com/subject/34841067/' target='_blank'>看过你好，李焕英</a> - 2021-02-17
 * <a href='http://movie.douban.com/subject/33440021/' target='_blank'>看过进击的巨人 最终季</a> - 2021-02-10
-* <a href='https://book.douban.com/subject/30348422/' target='_blank'>最近在读生活图鉴</a> - 2021-01-01
-* <a href='http://movie.douban.com/subject/24733428/' target='_blank'>看过心灵奇旅</a> - 2021-01-01
 <!-- douban ends -->
 
 </td>
