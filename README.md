@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-C           11 hrs 49 mins  ██████████████████████░░  77.0%
-Other        3 hrs 31 mins  █████████░░░░░░░░░░░░░░░  23.0%
+C           11 hrs 41 mins  ██████████████████████░░  77.3%
+Other        3 hrs 25 mins  █████████░░░░░░░░░░░░░░░  22.7%
 JSON                0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
