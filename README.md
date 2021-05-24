@@ -60,9 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-C           11 hrs 41 mins  ██████████████████████░░  77.3%
-Other        3 hrs 25 mins  █████████░░░░░░░░░░░░░░░  22.7%
-JSON                0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
+C           12 hrs 29 mins  ██████████████████▓░░░░░  63.1%
+Other        3 hrs 48 mins  ████████░░░░░░░░░░░░░░░░  19.3%
+Java         2 hrs 43 mins  ██████▓░░░░░░░░░░░░░░░░░  13.7%
+Markdown           23 mins  ████░░░░░░░░░░░░░░░░░░░░   2.0%
+Python             16 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%
+Git Config          3 mins  ███▓░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
