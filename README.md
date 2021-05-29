@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-Java        14 hrs 16 mins  █████████████████▓░░░░░░  59.4%
-C             6 hrs 5 mins  █████████▓░░░░░░░░░░░░░░  25.3%
-Markdown      1 hr 27 mins  █████░░░░░░░░░░░░░░░░░░░   6.1%
-Other         1 hr 16 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.3%
-Python             22 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.6%
-Rust               16 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.2%
+Java        16 hrs 54 mins  ███████████████████░░░░░  65.5%
+C            4 hrs 16 mins  ███████▒░░░░░░░░░░░░░░░░  16.6%
+Markdown      1 hr 33 mins  █████░░░░░░░░░░░░░░░░░░░   6.0%
+Rust          1 hr 12 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.7%
+Other         1 hr 10 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
+Python             22 mins  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time ends -->
