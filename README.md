@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 <!-- code_time starts -->
 
 ```text
-Java        17 hrs 18 mins  ███████████████████▒░░░░  66.3%
-Other         3 hrs 7 mins  ██████▒░░░░░░░░░░░░░░░░░  11.9%
-Python        1 hr 45 mins  █████░░░░░░░░░░░░░░░░░░░   6.7%
-XML            1 hr 6 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.2%
-SQL                51 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.3%
-Docker             39 mins  ████░░░░░░░░░░░░░░░░░░░░   2.5%
+Java        19 hrs 22 mins  ████████████████████▒░░░  69.8%
+Other        3 hrs 32 mins  ██████▓░░░░░░░░░░░░░░░░░  12.8%
+Python         1 hr 3 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.8%
+XML            1 hr 3 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.8%
+SQL                51 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.1%
+Docker             39 mins  ████░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time ends -->
