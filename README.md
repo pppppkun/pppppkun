@@ -1,11 +1,10 @@
 Hi, I'm pkun, a student from Nanjing University and now I focus on **Test and Analysis**
 
 ![](https://github.com/pppppkun/pppppkun/blob/output/github-snake.gif)
+
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2047%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My GitHub Data** 
 
