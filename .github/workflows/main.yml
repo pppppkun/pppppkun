@@ -18,7 +18,6 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_LINES_OF_CODE: "True"
       - uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
