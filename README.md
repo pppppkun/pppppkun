@@ -6,7 +6,7 @@ Hi, I'm pkun, a student from Nanjing University and now I focus on **Test and An
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 406 Contributions in the Year 2021
+> 🏆 408 Contributions in the Year 2021
  > 
 > 📦 104.7 kB Used in GitHub's Storage 
  > 
@@ -70,5 +70,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2021
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
