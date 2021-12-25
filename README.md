@@ -4,8 +4,6 @@ Hi, I'm pkun, a student from Nanjing University and now I focus on **Test and An
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2053%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 408 Contributions in the Year 2021
@@ -71,5 +69,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
