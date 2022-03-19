@@ -6,13 +6,13 @@ Hi, I'm pkun, a student from Nanjing University and now I focus on **Test and An
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 104.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
@@ -69,5 +69,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2022 18:48:31 UTC
+ Last Updated on 19/03/2022 18:46:48 UTC
 <!--END_SECTION:waka-->
