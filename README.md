@@ -1,5 +1,7 @@
 Hi, I'm pkun, a student from Nanjing University and now I focus on **Test and Analysis**
 
+You may find that this user have a long time didn't commit anything, it is due to the safety about code and data.
+
 ![](https://github.com/pppppkun/pppppkun/blob/output/github-snake.gif)
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
