@@ -6,7 +6,7 @@ You may find that this user have a long time didn't commit anything, it is due t
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C394%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -20,44 +20,6 @@ You may find that this user have a long time didn't commit anything, it is due t
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    2 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    6 commits      ██████████████████░░░░░░░   75.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Wednesday    5 commits      ███████████████░░░░░░░░░░   62.5% 
-Thursday     2 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      1 hr 16 mins        █████████████████░░░░░░░░   69.22% 
-Text                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57% 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.21%
-
-🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -71,5 +33,5 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 18:55:26 UTC
+ Last Updated on 15/09/2022 18:53:35 UTC
 <!--END_SECTION:waka-->
