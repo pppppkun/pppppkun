@@ -6,7 +6,7 @@ You may find that this user have a long time didn't commit anything, it is due t
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,9 +49,9 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 25 mins       ███████████████████░░░░░░   77.0% 
-C++                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
+Python                   4 hrs 59 mins       █████████████████████░░░░   86.63% 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
+C++                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
@@ -72,5 +72,5 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2022 18:53:23 UTC
+ Last Updated on 18/09/2022 18:53:15 UTC
 <!--END_SECTION:waka-->
