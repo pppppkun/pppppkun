@@ -6,13 +6,13 @@ You may find that this user have a long time didn't commit anything, it is due t
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C475%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C475%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2022
  > 
-> 📦 123.4 kB Used in GitHub's Storage 
+> 📦 123.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,5 +73,5 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2022 19:08:37 UTC
+ Last Updated on 20/10/2022 19:09:10 UTC
 <!--END_SECTION:waka-->
