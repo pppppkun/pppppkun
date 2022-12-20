@@ -6,7 +6,7 @@ You may find that this user have a long time didn't commit anything, it is due t
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C538%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C538%20hrs%2044%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,12 +49,11 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 29 mins        █████████████████████░░░░   84.68% 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python                   27 mins             ██████████████████████░░░   89.44% 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.56%
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.0%
+VS Code                  30 mins             █████████████████████████   100.0%
 
 ```
 
@@ -71,5 +70,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2022 18:43:40 UTC
+ Last Updated on 20/12/2022 18:43:37 UTC
 <!--END_SECTION:waka-->
