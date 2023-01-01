@@ -10,7 +10,7 @@ You may find that this user have a long time didn't commit anything, it is due t
 
 **🐱 My GitHub Data** 
 
-> 🏆 28 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 124.4 kB Used in GitHub's Storage 
  > 
@@ -69,5 +69,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 18:41:13 UTC
+ Last Updated on 01/01/2023 18:41:07 UTC
 <!--END_SECTION:waka-->
