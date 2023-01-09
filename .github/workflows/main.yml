@@ -21,8 +21,9 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.gif
+            dist/github-snake.svg
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
