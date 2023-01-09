@@ -7,7 +7,7 @@ You may find that this user have a long time didn't commit anything, it is due t
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C555%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2023 15:10:41 UTC
+ Last Updated on 09/01/2023 18:43:42 UTC
 <!--END_SECTION:waka-->
