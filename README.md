@@ -1,7 +1,5 @@
 Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Software Engineering and Machine Learning**
 
-You may find that this user have a long time didn't commit anything, it is due to the safety about code and data.
-
 ![GitHub Snake Light](https://github.com/pppppkun/pppppkun/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/pppppkun/pppppkun/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
