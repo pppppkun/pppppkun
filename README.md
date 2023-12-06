@@ -5,8 +5,6 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C968%20hrs%2041%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 127.0 kB Used in GitHub's Storage 
@@ -19,39 +17,6 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                231 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-🌆 Daytime                484 commits         ███████████░░░░░░░░░░░░░░   45.66 % 
-🌃 Evening                303 commits         ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   179 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Tuesday                  143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Wednesday                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Thursday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Saturday                 217 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -65,5 +30,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:40:36 UTC
+ Last Updated on 06/12/2023 18:40:56 UTC
 <!--END_SECTION:waka-->
