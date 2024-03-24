@@ -5,13 +5,13 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C995%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C995%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 127.1 kB Used in GitHub's Storage 
+> 📦 127.4 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2024
+> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,10 +22,10 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                233 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+🌞 Morning                234 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
 🌆 Daytime                486 commits         ███████████░░░░░░░░░░░░░░   45.51 % 
 🌃 Evening                306 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+🌙 Night                  42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -46,17 +46,17 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
 Java                     21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Python                   15 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
@@ -65,5 +65,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2024 18:39:32 UTC
+ Last Updated on 24/03/2024 18:40:45 UTC
 <!--END_SECTION:waka-->
