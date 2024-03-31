@@ -44,10 +44,10 @@ Sunday                   84 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -63,5 +63,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2024 18:39:32 UTC
+ Last Updated on 31/03/2024 18:39:34 UTC
 <!--END_SECTION:waka-->
