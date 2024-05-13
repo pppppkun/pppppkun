@@ -11,6 +11,8 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 > 📦 129.6 kB Used in GitHub's Storage 
  > 
+> 🏆 41 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -22,8 +24,8 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 ```text
 🌞 Morning                239 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
 🌆 Daytime                490 commits         ███████████░░░░░░░░░░░░░░   45.08 % 
-🌃 Evening                314 commits         ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-🌙 Night                  44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌃 Evening                315 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -66,5 +68,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2024 18:40:04 UTC
+ Last Updated on 13/05/2024 18:39:26 UTC
 <!--END_SECTION:waka-->
