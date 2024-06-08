@@ -5,11 +5,13 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C006%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 131.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 44 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,10 +46,10 @@ Sunday                   85 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -63,5 +65,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2024 18:42:04 UTC
+ Last Updated on 08/06/2024 18:40:09 UTC
 <!--END_SECTION:waka-->
