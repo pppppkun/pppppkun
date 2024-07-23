@@ -11,6 +11,8 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 > 📦 137.2 kB Used in GitHub's Storage 
  > 
+> 🏆 94 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -44,11 +46,10 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     20 mins             █████████████████████░░░░   82.64 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -64,5 +65,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2024 18:50:47 UTC
+ Last Updated on 23/07/2024 18:49:46 UTC
 <!--END_SECTION:waka-->
