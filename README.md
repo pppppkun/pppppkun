@@ -5,11 +5,13 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2023%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 137.2 kB Used in GitHub's Storage 
+> 📦 137.3 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2024
+> 🏆 95 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +19,39 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                249 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌆 Daytime                508 commits         ███████████░░░░░░░░░░░░░░   45.12 % 
+🌃 Evening                324 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+🌙 Night                  45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Tuesday                  156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Wednesday                151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 169 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Friday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Saturday                 227 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Sunday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -30,5 +65,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 18:51:39 UTC
+ Last Updated on 25/07/2024 18:49:01 UTC
 <!--END_SECTION:waka-->
