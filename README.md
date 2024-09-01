@@ -11,13 +11,13 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 > 📦 142.6 kB Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2024
+> 🏆 109 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,5 +65,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024 18:50:35 UTC
+ Last Updated on 01/09/2024 18:51:21 UTC
 <!--END_SECTION:waka-->
