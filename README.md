@@ -15,9 +15,9 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,5 +65,5 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 18:55:43 UTC
+ Last Updated on 27/09/2024 18:55:34 UTC
 <!--END_SECTION:waka-->
