@@ -5,11 +5,13 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C011%20hrs%2012%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 149.1 kB Used in GitHub's Storage 
+> 📦 149.2 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2024
+> 🏆 139 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +19,39 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                254 commits         █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+🌆 Daytime                529 commits         ███████████░░░░░░░░░░░░░░   45.18 % 
+🌃 Evening                340 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+🌙 Night                  48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Tuesday                  163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 235 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Sunday                   97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -30,5 +65,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 18:58:30 UTC
+ Last Updated on 02/12/2024 19:00:57 UTC
 <!--END_SECTION:waka-->
