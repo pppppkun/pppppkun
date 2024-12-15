@@ -5,13 +5,13 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C016%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 149.4 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2024
+> 🏆 161 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,12 +46,12 @@ Sunday                   100 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 29 mins       ████████████████████████░   94.68 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   6 hrs 52 mins       ████████████████████████░   95.44 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -67,5 +67,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 18:57:07 UTC
+ Last Updated on 15/12/2024 18:58:31 UTC
 <!--END_SECTION:waka-->
