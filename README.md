@@ -46,11 +46,10 @@ Sunday                   100 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ████████████████████████░   96.91 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +65,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2024 18:54:46 UTC
+ Last Updated on 22/12/2024 18:54:02 UTC
 <!--END_SECTION:waka-->
