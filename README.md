@@ -5,7 +5,7 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,10 +46,10 @@ Sunday                   100 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -65,5 +65,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2024 18:53:39 UTC
+ Last Updated on 28/12/2024 18:54:37 UTC
 <!--END_SECTION:waka-->
