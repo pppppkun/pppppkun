@@ -11,7 +11,7 @@ Hi, I'm pkun, a phd candidate from Nanjing University and now I focus on **Softw
 
 > 📦 149.6 kB Used in GitHub's Storage 
  > 
-> 🏆 189 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,5 +65,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 18:55:54 UTC
+ Last Updated on 01/01/2025 18:55:47 UTC
 <!--END_SECTION:waka-->
