@@ -46,12 +46,10 @@ Sunday                   104 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               17 mins             ████████████████░░░░░░░░░   64.64 % 
-Python                   9 mins              ████████░░░░░░░░░░░░░░░░░   32.74 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -67,5 +65,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 19:01:01 UTC
+ Last Updated on 14/01/2025 18:56:33 UTC
 <!--END_SECTION:waka-->
