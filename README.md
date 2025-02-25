@@ -46,11 +46,10 @@ Sunday                   104 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 mins             ████████████████████████░   97.57 % 
-BibTeX                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +65,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 18:58:55 UTC
+ Last Updated on 25/02/2025 18:58:19 UTC
 <!--END_SECTION:waka-->
