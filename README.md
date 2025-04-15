@@ -5,11 +5,13 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C033%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 168.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,13 +46,13 @@ Sunday                   107 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        █████████████████████░░░░   82.75 % 
-JSON                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   2 hrs 44 mins       ████████████████████░░░░░   80.03 % 
+JSON                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +68,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2025 19:01:11 UTC
+ Last Updated on 15/04/2025 18:59:52 UTC
 <!--END_SECTION:waka-->
