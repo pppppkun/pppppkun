@@ -5,7 +5,7 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C167%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C167%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,5 +69,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 19:01:14 UTC
+ Last Updated on 15/06/2025 19:01:54 UTC
 <!--END_SECTION:waka-->
