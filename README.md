@@ -5,11 +5,11 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C174%20hrs%2046%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 176.3 kB Used in GitHub's Storage 
- > 
-> 🏆 170 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +17,39 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                289 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+🌆 Daytime                597 commits         ███████████░░░░░░░░░░░░░░   43.04 % 
+🌃 Evening                423 commits         ████████░░░░░░░░░░░░░░░░░   30.50 % 
+🌙 Night                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   240 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Tuesday                  209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Wednesday                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Saturday                 250 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Sunday                   118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -30,5 +63,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 18:52:32 UTC
+ Last Updated on 02/07/2025 18:53:34 UTC
 <!--END_SECTION:waka-->
