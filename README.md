@@ -11,8 +11,6 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 > 📦 176.7 kB Used in GitHub's Storage 
  > 
-> 🏆 216 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -69,5 +67,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 18:55:42 UTC
+ Last Updated on 15/08/2025 18:54:22 UTC
 <!--END_SECTION:waka-->
