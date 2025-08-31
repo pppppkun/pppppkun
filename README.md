@@ -5,9 +5,13 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C194%20hrs%2059%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 176.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 217 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -15,6 +19,40 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                299 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+🌆 Daytime                603 commits         ███████████░░░░░░░░░░░░░░   42.77 % 
+🌃 Evening                426 commits         ████████░░░░░░░░░░░░░░░░░   30.21 % 
+🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   253 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Tuesday                  213 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Wednesday                182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Friday                   189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Saturday                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Sunday                   118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   20 mins             ███████████████████████░░   93.29 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+
+🔥 Editors: 
+VS Code                  21 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -28,5 +66,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 18:47:01 UTC
+ Last Updated on 31/08/2025 18:47:54 UTC
 <!--END_SECTION:waka-->
