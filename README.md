@@ -11,7 +11,7 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 > 📦 176.8 kB Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,11 +46,10 @@ Sunday                   118 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████████████████░░   93.29 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Python                   20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,5 +65,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 18:48:29 UTC
+ Last Updated on 06/09/2025 18:44:57 UTC
 <!--END_SECTION:waka-->
