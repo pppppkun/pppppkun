@@ -5,7 +5,7 @@ Hi, I'm Chun Li, a phd student from Nanjing University, and now I focus on **Sof
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,12 +46,12 @@ Sunday                   128 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     45 mins             ████████████░░░░░░░░░░░░░   46.00 % 
-Markdown                 43 mins             ███████████░░░░░░░░░░░░░░   43.60 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Markdown                 35 mins             ██████████████░░░░░░░░░░░   55.58 % 
+Bash                     26 mins             ███████████░░░░░░░░░░░░░░   42.43 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -67,5 +67,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2025 18:46:39 UTC
+ Last Updated on 19/10/2025 18:47:11 UTC
 <!--END_SECTION:waka-->
