@@ -7,7 +7,7 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C498%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C499%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -72,5 +72,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 19:59:44 UTC
+ Last Updated on 06/05/2026 20:11:36 UTC
 <!--END_SECTION:waka-->
