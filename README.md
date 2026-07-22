@@ -7,7 +7,7 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C516%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,10 +48,14 @@ Sunday                   382 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 mins             █████████████████████████   100.00 % 
+Python                   58 mins             ███████████░░░░░░░░░░░░░░   42.89 % 
+Other                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+BibTeX                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +71,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 20:04:59 UTC
+ Last Updated on 22/07/2026 19:55:53 UTC
 <!--END_SECTION:waka-->
