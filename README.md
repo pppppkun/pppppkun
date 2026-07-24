@@ -7,8 +7,6 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C519%20hrs%2013%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 242.9 kB Used in GitHub's Storage 
@@ -21,43 +19,6 @@ Welcome to my [homepage](https://pkun.life).
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                420 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-🌆 Daytime                912 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌃 Evening                831 commits         █████████░░░░░░░░░░░░░░░░   35.03 % 
-🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Thursday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   387 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Saturday                 374 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Sunday                   382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.00 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-BibTeX                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -71,5 +32,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:58:43 UTC
+ Last Updated on 24/07/2026 19:58:24 UTC
 <!--END_SECTION:waka-->
