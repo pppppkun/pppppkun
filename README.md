@@ -48,15 +48,14 @@ Sunday                   382 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.05 % 
-Markdown                 3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-BibTeX                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Python                   1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.16 % 
+Markdown                 45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+BibTeX                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 20 mins       ████████████████████████░   96.39 % 
-Exec Wakatime            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +71,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:47:49 UTC
+ Last Updated on 26/07/2026 19:47:01 UTC
 <!--END_SECTION:waka-->
