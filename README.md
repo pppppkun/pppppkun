@@ -7,7 +7,9 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C537%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C427%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,14 +50,36 @@ Sunday                   382 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.16 % 
-Markdown                 45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-BibTeX                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Markdown                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.61 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+BibTeX                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 5 mins (88.84%)
+
+✍️ 3,243 lines written by AI, 65 lines written by hand (98.04% AI-written)
+
+🔤 60,256,526 Input Tokens, 335,863 Output Tokens
+
+💵 $291.02 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 36 AI Prompts
+
+GPT                      3,472 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.04% of written lines came from AI
+📝 Concise Prompter — average 186 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +95,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:47:01 UTC
+ Last Updated on 27/07/2026 20:07:59 UTC
 <!--END_SECTION:waka-->
