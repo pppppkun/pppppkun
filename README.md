@@ -50,22 +50,22 @@ Sunday                   382 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 46 mins             ███████████░░░░░░░░░░░░░░   44.67 % 
-Python                   31 mins             ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Git Config               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Python                   31 mins             ██████████░░░░░░░░░░░░░░░   41.94 % 
+Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Git Config               14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (72.08%)
+⏱ AI Coding Time: 1 hr 15 mins (100.0%)
 
-✍️ 5,864 lines written by AI, 64 lines written by hand (98.92% AI-written)
+✍️ 5,864 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 32,163,314 Input Tokens, 178,089 Output Tokens
 
@@ -76,10 +76,10 @@ VS Code                  1 hr 44 mins        ███████████�
 GPT                      5,885 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.92% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 76 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.47% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +95,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:46:19 UTC
+ Last Updated on 04/08/2026 20:11:54 UTC
 <!--END_SECTION:waka-->
