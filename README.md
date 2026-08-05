@@ -50,35 +50,35 @@ Sunday                   382 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   31 mins             ██████████░░░░░░░░░░░░░░░   41.94 % 
-Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Git Config               14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   31 mins             ████████████░░░░░░░░░░░░░   47.25 % 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+Git Config               14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (100.0%)
+⏱ AI Coding Time: 1 hr 7 mins (100.0%)
 
 ✍️ 5,864 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 32,163,314 Input Tokens, 178,089 Output Tokens
+🔤 31,564,773 Input Tokens, 171,909 Output Tokens
 
-💵 $166.16 Estimated AI Cost This Week
+💵 $164.53 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
 GPT                      5,885 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 98 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -95,5 +95,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:11:54 UTC
+ Last Updated on 05/08/2026 20:12:40 UTC
 <!--END_SECTION:waka-->
