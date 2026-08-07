@@ -23,65 +23,6 @@ Welcome to my [homepage](https://pkun.life).
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                420 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-🌆 Daytime                913 commits         ██████████░░░░░░░░░░░░░░░   38.47 % 
-🌃 Evening                831 commits         █████████░░░░░░░░░░░░░░░░   35.02 % 
-🌙 Night                  209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Friday                   387 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Saturday                 375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Sunday                   382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   31 mins             ████████████░░░░░░░░░░░░░   47.25 % 
-Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Git Config               14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-
-🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 7 mins (100.0%)
-
-✍️ 5,864 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 31,564,773 Input Tokens, 171,909 Output Tokens
-
-💵 $164.53 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 10 AI Prompts
-
-GPT                      5,885 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -95,5 +36,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:12:40 UTC
+ Last Updated on 07/08/2026 00:27:08 UTC
 <!--END_SECTION:waka-->
