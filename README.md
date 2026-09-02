@@ -7,9 +7,9 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C429%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C429%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2020%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,33 +50,33 @@ Sunday                   424 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      5 mins              █████████████████████░░░░   82.38 % 
-Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+TeX                      5 mins              █████████████████░░░░░░░░   68.82 % 
+Markdown                 2 mins              ████████░░░░░░░░░░░░░░░░░   31.18 % 
 
 🔥 Editors: 
-Codex Vscode             7 mins              █████████████████████████   98.17 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Codex Vscode             8 mins              █████████████████████████   98.47 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (100.0%)
+⏱ AI Coding Time: 8 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 11 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 65,042 Input Tokens, 9,645 Output Tokens
+🔤 85,493 Input Tokens, 13,118 Output Tokens
 
-💵 $0.76 Estimated AI Cost This Week
+💵 $1.07 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-GPT                      11 lines            █████████████████████████   100.00 % 
+GPT                      22 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📄 Detailed Prompter — average 690 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -93,5 +93,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:17:23 UTC
+ Last Updated on 02/09/2026 21:15:17 UTC
 <!--END_SECTION:waka-->
