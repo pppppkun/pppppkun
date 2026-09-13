@@ -7,7 +7,7 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C439%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%204%20mins-blue?style=flat)
 
@@ -50,38 +50,37 @@ Sunday                   424 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 4 mins        ███████████████████░░░░░░   75.74 % 
-Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Other                    2 hrs 3 mins        ████████████████░░░░░░░░░   63.96 % 
+Python                   1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   32.66 % 
+TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 20 mins       █████████████████████░░░░   85.40 % 
-Codex CLI                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Codex Vscode             2 hrs 2 mins        ████████████████░░░░░░░░░   63.50 % 
+VS Code                  1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (98.43%)
+⏱ AI Coding Time: 2 hrs 7 mins (65.94%)
 
-✍️ 169 lines written by AI, 38 lines written by hand (81.64% AI-written)
+✍️ 0 lines written by AI, 161 lines written by hand (0.0% AI-written)
 
-🔤 489,745 Input Tokens, 55,566 Output Tokens
+🔤 162,084 Input Tokens, 26,682 Output Tokens
 
-💵 $16.02 Estimated AI Cost This Week
+💵 $7.66 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 54 AI Prompts
+🧠 5 AI Sessions, 41 AI Prompts
 
-GPT                      169 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.64% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 18.36% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +96,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:53:28 UTC
+ Last Updated on 13/09/2026 21:06:39 UTC
 <!--END_SECTION:waka-->
