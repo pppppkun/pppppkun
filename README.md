@@ -13,9 +13,9 @@ Welcome to my [homepage](https://pkun.life).
 
 **🐱 My GitHub Data** 
 
-> 📦 243.4 kB Used in GitHub's Storage 
+> 📦 243.5 kB Used in GitHub's Storage 
  > 
-> 🏆 332 Contributions in the Year 2026
+> 🏆 335 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@ Welcome to my [homepage](https://pkun.life).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-🌆 Daytime                985 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌃 Evening                898 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
-🌙 Night                  246 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+🌞 Morning                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+🌆 Daytime                985 commits         ██████████░░░░░░░░░░░░░░░   38.36 % 
+🌃 Evening                898 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌙 Night                  249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Tuesday                  334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Wednesday                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Saturday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Sunday                   424 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Monday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Tuesday                  334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Wednesday                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Thursday                 301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Saturday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Sunday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 ```
 
 
@@ -50,36 +50,19 @@ Sunday                   424 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         █████████████████░░░░░░░░   69.53 % 
-Other                    27 mins             ████████░░░░░░░░░░░░░░░░░   30.16 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 2 mins         █████████████████████████   99.17 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         ██████████████████░░░░░░░   70.20 % 
-Codex Vscode             26 mins             ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (29.88%)
-
-✍️ 0 lines written by AI, 123 lines written by hand (0.0% AI-written)
-
-🔤 35,573 Input Tokens, 5,350 Output Tokens
-
-💵 $1.28 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 5 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 118 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -95,5 +78,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:12:21 UTC
+ Last Updated on 19/09/2026 20:58:43 UTC
 <!--END_SECTION:waka-->
