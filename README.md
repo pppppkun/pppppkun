@@ -7,7 +7,7 @@ Welcome to my [homepage](https://pkun.life).
 
 ![](https://komarev.com/ghpvc/?username=pppppkun)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C439%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%204%20mins-blue?style=flat)
 
@@ -50,16 +50,36 @@ Sunday                   427 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+Python                   2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Markdown                 1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             5 hrs 59 mins       ███████████████████████░░   90.38 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 5 mins (91.92%)
+
+✍️ 1,141 lines written by AI, 109 lines written by hand (91.28% AI-written)
+
+🔤 2,191,835 Input Tokens, 173,309 Output Tokens
+
+💵 $66.67 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 92 AI Prompts
+
+GPT                      1,141 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 91.28% of written lines came from AI
+📄 Detailed Prompter — average 639 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 11.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +95,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:02:36 UTC
+ Last Updated on 21/09/2026 22:10:48 UTC
 <!--END_SECTION:waka-->
