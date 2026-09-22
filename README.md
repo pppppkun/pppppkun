@@ -13,34 +13,34 @@ Welcome to my [homepage](https://pkun.life).
 
 **🐱 My GitHub Data** 
 
-> 📦 243.5 kB Used in GitHub's Storage 
+> 📦 245.7 kB Used in GitHub's Storage 
  > 
-> 🏆 335 Contributions in the Year 2026
+> 🏆 337 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-🌆 Daytime                985 commits         ██████████░░░░░░░░░░░░░░░   38.36 % 
-🌃 Evening                898 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌙 Night                  249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌞 Morning                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌆 Daytime                985 commits         ██████████░░░░░░░░░░░░░░░   38.34 % 
+🌃 Evening                898 commits         █████████░░░░░░░░░░░░░░░░   34.96 % 
+🌙 Night                  250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Tuesday                  334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Wednesday                386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Wednesday                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 Thursday                 301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Saturday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Sunday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Saturday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Sunday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 ```
 
 
@@ -85,15 +85,15 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            █████████░░░░░░░░░░░░░░░░   36.49 % 
-Java                     23 repos            ████████░░░░░░░░░░░░░░░░░   31.08 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   27 repos            █████████░░░░░░░░░░░░░░░░   36.00 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 21/09/2026 22:10:48 UTC
+ Last Updated on 22/09/2026 21:38:25 UTC
 <!--END_SECTION:waka-->
