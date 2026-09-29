@@ -9,7 +9,7 @@ Welcome to my [homepage](https://pkun.life).
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%207%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,16 +50,36 @@ Sunday                   427 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+Markdown                 1 hr 59 mins        ██████████████░░░░░░░░░░░   56.20 % 
+Other                    1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
+TeX                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-Codex Vscode             0 secs              █████████████████████████   100.00 % 
+Codex Vscode             3 hrs 21 mins       ████████████████████████░   94.67 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 32 mins (99.91%)
+
+✍️ 727 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,344,316 Input Tokens, 146,890 Output Tokens
+
+💵 $44.61 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 62 AI Prompts
+
+GPT                      727 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +95,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:29:57 UTC
+ Last Updated on 29/09/2026 22:34:14 UTC
 <!--END_SECTION:waka-->
