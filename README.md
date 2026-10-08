@@ -13,9 +13,9 @@ Welcome to my [homepage](https://pkun.life).
 
 **🐱 My GitHub Data** 
 
-> 📦 287.1 kB Used in GitHub's Storage 
+> 📦 287.2 kB Used in GitHub's Storage 
  > 
-> 🏆 349 Contributions in the Year 2026
+> 🏆 350 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,9 +26,9 @@ Welcome to my [homepage](https://pkun.life).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-🌆 Daytime                987 commits         ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌃 Evening                902 commits         █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌞 Morning                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+🌆 Daytime                987 commits         ██████████░░░░░░░░░░░░░░░   38.20 % 
+🌃 Evening                902 commits         █████████░░░░░░░░░░░░░░░░   34.91 % 
 🌙 Night                  255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -36,11 +36,11 @@ Welcome to my [homepage](https://pkun.life).
 ```text
 Monday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 Tuesday                  334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Friday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Saturday                 398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Sunday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Thursday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Friday                   427 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Sunday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 ```
 
 
@@ -50,41 +50,41 @@ Sunday                   431 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-TeX                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Markdown                 2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
+HTML                     1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+TeX                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 47 mins       █████████████████░░░░░░░░   68.28 % 
-VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Claude Code              52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Codex Vscode             4 hrs 47 mins       ██████████████████░░░░░░░   73.14 % 
+VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Claude Code              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 2 mins (90.62%)
+⏱ AI Coding Time: 6 hrs 2 mins (92.07%)
 
-✍️ 1,267 lines written by AI, 188 lines written by hand (87.08% AI-written)
+✍️ 1,670 lines written by AI, 182 lines written by hand (90.17% AI-written)
 
-🔤 2,349,326 Input Tokens, 397,208 Output Tokens
+🔤 2,371,307 Input Tokens, 439,422 Output Tokens
 
-💵 $24.79 Estimated AI Cost This Week
+💵 $25.47 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 80 AI Prompts
+🧠 18 AI Sessions, 80 AI Prompts
 
-GPT                      1,119 lines         █████████████████████░░░░   85.35 % 
-Opus                     123 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Codex-Vscode             69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+GPT                      1,522 lines         ██████████████████████░░░   88.80 % 
+Opus                     123 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Codex-Vscode             69 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.08% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
+🤖 AI-Driven — 90.17% of written lines came from AI
+📝 Concise Prompter — average 127 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 15.31% of changed lines were hand-edited
+🚀 High AI Trust — 11.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:17:51 UTC
+ Last Updated on 08/10/2026 23:33:39 UTC
 <!--END_SECTION:waka-->
