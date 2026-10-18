@@ -9,7 +9,7 @@ Welcome to my [homepage](https://pkun.life).
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C446%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,34 +50,34 @@ Sunday                   431 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 41 mins             ████████████░░░░░░░░░░░░░   49.61 % 
-Other                    37 mins             ███████████░░░░░░░░░░░░░░   45.52 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Other                    1 hr 11 mins        ███████████████░░░░░░░░░░   61.07 % 
+Markdown                 41 mins             █████████░░░░░░░░░░░░░░░░   35.45 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 3 mins         ███████████████████░░░░░░   76.77 % 
-VS Code                  19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Codex Vscode             1 hr 37 mins        █████████████████████░░░░   83.40 % 
+VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (78.5%)
+⏱ AI Coding Time: 1 hr 38 mins (84.63%)
 
 ✍️ 184 lines written by AI, 51 lines written by hand (78.3% AI-written)
 
-🔤 636,214 Input Tokens, 41,166 Output Tokens
+🔤 1,009,537 Input Tokens, 68,369 Output Tokens
 
-💵 $8.23 Estimated AI Cost This Week
+💵 $10.88 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 22 AI Prompts
+🧠 10 AI Sessions, 28 AI Prompts
 
 GPT                      184 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 78.3% of written lines came from AI
-📝 Concise Prompter — average 99 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 22.69% of changed lines were hand-edited
 ```
 
@@ -94,5 +94,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:53:55 UTC
+ Last Updated on 18/10/2026 21:00:32 UTC
 <!--END_SECTION:waka-->
