@@ -50,33 +50,33 @@ Sunday                   431 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 4 mins         ███████████████░░░░░░░░░░   58.55 % 
-Markdown                 41 mins             █████████░░░░░░░░░░░░░░░░   37.75 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown                 41 mins             ████████████░░░░░░░░░░░░░   48.68 % 
+Other                    39 mins             ████████████░░░░░░░░░░░░░   46.54 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 30 mins        █████████████████████░░░░   82.32 % 
-VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Codex Vscode             1 hr 5 mins         ███████████████████░░░░░░   77.21 % 
+VS Code                  19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (83.64%)
+⏱ AI Coding Time: 1 hr 7 mins (78.9%)
 
 ✍️ 184 lines written by AI, 51 lines written by hand (78.3% AI-written)
 
-🔤 919,616 Input Tokens, 66,706 Output Tokens
+🔤 794,677 Input Tokens, 60,786 Output Tokens
 
-💵 $10.84 Estimated AI Cost This Week
+💵 $10.49 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 23 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
 GPT                      184 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 78.3% of written lines came from AI
-📝 Concise Prompter — average 99 characters per prompt
+📝 Concise Prompter — average 111 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 22.69% of changed lines were hand-edited
 ```
@@ -94,5 +94,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:50:50 UTC
+ Last Updated on 21/10/2026 21:57:59 UTC
 <!--END_SECTION:waka-->
