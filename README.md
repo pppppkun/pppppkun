@@ -50,35 +50,34 @@ Sunday                   431 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         █████████████░░░░░░░░░░░░   53.77 % 
-Markdown                 50 mins             ███████████░░░░░░░░░░░░░░   42.76 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    56 mins             ██████████████████████░░░   87.40 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 29 mins        ███████████████████░░░░░░   75.98 % 
-VS Code                  28 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Codex Vscode             56 mins             ██████████████████████░░░   87.40 % 
+VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (77.21%)
+⏱ AI Coding Time: 56 mins (87.4%)
 
-✍️ 184 lines written by AI, 51 lines written by hand (78.3% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,000,525 Input Tokens, 76,318 Output Tokens
+🔤 579,171 Input Tokens, 42,735 Output Tokens
 
-💵 $12.08 Estimated AI Cost This Week
+💵 $4.42 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 17 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
-GPT                      184 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.3% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.69% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 214 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -94,5 +93,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:38:16 UTC
+ Last Updated on 24/10/2026 21:08:55 UTC
 <!--END_SECTION:waka-->
