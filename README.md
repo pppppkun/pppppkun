@@ -50,34 +50,16 @@ Sunday                   431 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    56 mins             ██████████████████████░░░   87.40 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             56 mins             ██████████████████████░░░   87.40 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (87.4%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 579,171 Input Tokens, 42,735 Output Tokens
-
-💵 $4.42 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 214 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -93,5 +75,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:08:55 UTC
+ Last Updated on 25/10/2026 21:11:10 UTC
 <!--END_SECTION:waka-->
